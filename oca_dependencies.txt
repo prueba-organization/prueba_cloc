@@ -1,0 +1,1 @@
+lodigroup git@git.vauxoo.com:vauxoo/lodigroup.git 8.0
