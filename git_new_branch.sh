@@ -17,6 +17,7 @@ git checkout -b $new_branch
 
 new_file=file_$max.txt
 touch $new_file
+echo "hola mundo">>$new_file
 git add $new_file
 git commit -m "add new file"
 git push origin $new_branch

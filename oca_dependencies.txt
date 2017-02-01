@@ -1,1 +1,2 @@
-lodigroup git@git.vauxoo.com:vauxoo/lodigroup.git 8.0
+fake_repo git@github.com:user/repo2.git
+
