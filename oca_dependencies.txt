@@ -1,2 +1,1 @@
-fake_repo git@github.com:user/repo2.git
 
